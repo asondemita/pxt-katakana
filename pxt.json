@@ -11,8 +11,7 @@
         "main.ts"
     ],
     "testFiles": [
-        "README.md",
-        "main.ts"
+        "test.ts"
     ],    
     "public": true
 }
